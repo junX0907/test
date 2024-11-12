@@ -1,0 +1,2 @@
+../Hardware/src/led.c:3:7:LED1_Toggle	8	static
+../Hardware/src/led.c:8:7:LED2_Toggle	8	static
